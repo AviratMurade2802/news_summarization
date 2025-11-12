@@ -41,6 +41,17 @@ It covers robust cleaning, tokenization, efficient sequence-to-sequence training
 └── README.md # Project info and instructions
 
 
+## Dataset & Trained Model
+
+The data and model are too large to include directly in this repository.
+
+- **Dataset (Raw + Processed + Tokenized)**  
+  [Download from Google Drive](https://drive.google.com/file/d/1T9mx5l-4CLOw7nRQAujT3CSGl3F-rXII/view?usp=drive_link)  
+  After downloading, unzip and place the folder in `Data/`.
+
+- **Trained Model (Final Fine-Tuned PEGASUS)**  
+  [Download from Google Drive](https://drive.google.com/file/d/167KtBRJPTy_LgxAhKMDiC8HXcs9QLkdP/view?usp=drive_link)  
+  After downloading, unzip and place the folder in `Models/`.
 
 ---
 
