@@ -45,6 +45,6 @@ It covers robust cleaning, tokenization, efficient sequence-to-sequence training
 ---
 
 ## Contributors
-
+-Avirat Murade (https://github.com/AviratMurade2802)
 - Abhishek Shete (https://github.com/Abhishekshete0808)  
-- Shivam Chincholkar (https://github.com/Shivam22112)
+
