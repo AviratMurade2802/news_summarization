@@ -1,0 +1,34 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders 
+pegasusenv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache and config folder (local machine specific)
+.streamlit/
+
+
+# Ignore all contents of Models folder except folder structure
+Models/*
+!Models/.gitkeep
+
+# Ignore all contents of Data folder except folder structure
+Data/*
+!Data/.gitkeep
+
+# IDE/editor project folders
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+
+# OS system files (macOS/Windows)
+.DS_Store
+Thumbs.db
